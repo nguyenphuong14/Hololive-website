@@ -1,0 +1,6 @@
+D:\仕事\HololiveWebsite\Authentication\bin\Debug\Authentication.dll
+D:\仕事\HololiveWebsite\Authentication\bin\Debug\Authentication.pdb
+D:\仕事\HololiveWebsite\Authentication\obj\Debug\Authentication.csproj.AssemblyReference.cache
+D:\仕事\HololiveWebsite\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+D:\仕事\HololiveWebsite\Authentication\obj\Debug\Authentication.dll
+D:\仕事\HololiveWebsite\Authentication\obj\Debug\Authentication.pdb
